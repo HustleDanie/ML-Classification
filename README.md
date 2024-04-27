@@ -51,12 +51,4 @@ Common classification modeling algorithms used in machine learning:
 
 6. **Naive Bayes**: Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem and the assumption of independence between features. Despite its simplicity, it often performs well on text classification and other high-dimensional datasets.
 
-7. **Gradient Boosting Machines (GBM)**: GBM is an ensemble learning technique that builds a series of weak learners (typically decision trees) sequentially, with each new model correcting the errors of the previous ones. It is known for its high predictive accuracy and is widely used in competitions and real-world applications.
-
-8. **Neural Networks**: Neural networks, especially deep learning architectures like convolutional neural networks (CNNs) and recurrent neural networks (RNNs), have shown remarkable success in classification tasks, particularly in image recognition, natural language processing, and speech recognition.
-
-9. **AdaBoost**: AdaBoost (Adaptive Boosting) is another ensemble learning method that combines multiple weak learners to create a strong classifier. It iteratively adjusts the weights of misclassified instances to focus on difficult examples, leading to improved overall performance.
-
-10. **XGBoost/LightGBM/CatBoost**: These are advanced gradient boosting libraries that offer optimized implementations of gradient boosting algorithms. They are highly efficient and widely used in both competitions and production environments for classification tasks.
-
 These are just a few examples of common classification modeling algorithms, each with its strengths, weaknesses, and suitability for different types of data and problem domains. The choice of algorithm depends on factors such as the nature of the data, the size of the dataset, computational resources, and the desired level of interpretability and accuracy.
