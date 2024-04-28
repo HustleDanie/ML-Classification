@@ -51,4 +51,6 @@ Common classification modeling algorithms used in machine learning:
 
 6. **Naive Bayes**: Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem and the assumption of independence between features. Despite its simplicity, it often performs well on text classification and other high-dimensional datasets.
 
+7. **Random Forest**: It operates by constructing a multitude of decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees.
+
 These are just a few examples of common classification modeling algorithms, each with its strengths, weaknesses, and suitability for different types of data and problem domains. The choice of algorithm depends on factors such as the nature of the data, the size of the dataset, computational resources, and the desired level of interpretability and accuracy.
