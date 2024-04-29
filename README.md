@@ -15,5 +15,10 @@
 7. **Kernel SVM (Support Vector Machine)**: is an extension of the traditional SVM algorithm that allows for nonlinear decision boundaries by using kernel functions to map the input data into higher-dimensional feature spacesonstructing a multitude of decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees.
 
 <h1>Model Selection</h1>
+1. Create a Template for the task
+2. Run all 7 Alogirthms
+3. Use the Confusion Matrix to discover the best Algorithm
+4. The best Algorithm is the best model for the task
 
-<h3>Visit this Blog for more information</h3>
+N.B: You can always do more research for other newer algorithms
+<h3>Visit this <a href="hustledaniel.vercel.app">Blog</a> for more information</h3>
